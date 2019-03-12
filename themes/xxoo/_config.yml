@@ -9,7 +9,7 @@ menu:
   tags: /tags
   #categories: /categories
   search: /search
-  about: https://0xff000000.com
+  # about: https://0xff000000.com
   rss: /atom.xml
 
 # Miscelaneous
