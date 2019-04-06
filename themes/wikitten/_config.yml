@@ -9,7 +9,7 @@ menu:
 # Customize
 customize:
     logo:
-        enabled: true
+        enabled: false
         width: 40
         height: 40
         url: /logo.png
@@ -25,11 +25,11 @@ customize:
     sidebar: left # sidebar position, options: left, right
     category_perExpand: false # enable article categories list per expanding
     thumbnail: true # enable posts thumbnail, options: true, false
-    favicon: /favicon.ico # path to favicon
+    favicon: /favicon.png # path to favicon
     default_index_file: index.md # if this, it will display at site index instead of default index page
     social_links:
         github: https://github.com/baylin87/baylin87.github.io
-        stack-overflow: http://stackoverflow.com/users/7277090/baylin87?tab=profile
+        # stack-overflow: http://stackoverflow.com/users/7277090/baylin87?tab=profile
         codepen: http://codepen.io/baylin87/
         rss: /atom.xml
     social_link_tooltip: true # enable the social link tooltip, options: true, false
@@ -78,9 +78,9 @@ plugins:
     lightgallery: true # options: true, false
     justifiedgallery: true # options: true, false
     mathjax: true # options: true, false - to enable use Mathjax in your article
-    google_analytics: # enter the tracking ID for your Google Analytics
+    google_analytics: UA-137842822-1 # enter the tracking ID for your Google Analytics
     google_site_verification: # enter Google site verification code
-    baidu_analytics: # enter Baidu Analytics hash key
+    baidu_analytics: 6ce35fe44e8fac4b3d4d4133cc77fff6 # enter Baidu Analytics hash key
     busuanzi_count: false # options: true, false - to enable busuanzi site pv statistics
 
 # Miscellaneous
