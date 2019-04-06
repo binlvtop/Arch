@@ -19,4 +19,4 @@ categories: [头脑风暴,TODO]
 
 ### 习惯类
 
-- [] 日常更新wiki
+- [ ] 日常更新wiki
